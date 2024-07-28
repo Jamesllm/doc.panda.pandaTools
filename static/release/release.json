@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "pandaTools",
+      "version": "1.0.0",
+      "language": "java",
+      "versionLanguage": "18",
+      "date": "27/07/2024",
+      "file": "https://github.com/Jamesllm/PandaTools/releases/download/v1.0.0/PandaTools.jar"
+    }
+  ]
+}
